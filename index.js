@@ -90,7 +90,7 @@ const gameExecution = async () => {
     }
 }
 
-// gameExecution();
+gameExecution();
 
 //Help Function
 
